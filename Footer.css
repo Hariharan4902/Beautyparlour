@@ -1,0 +1,25 @@
+.bg-footer {
+    background-color: #1c1f26;
+  }
+  
+  .footer-logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .footer-sub {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+  }
+  
+  .bg-footer a:hover {
+    color: #D4AF37;
+  }
+  
+  .bg-footer p,
+  .bg-footer address {
+    color: #ccc;
+    font-size: 0.95rem;
+  }
+  

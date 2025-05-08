@@ -1,0 +1,35 @@
+.services-section .gold-bar {
+    color: #D4AF37;
+  }
+  
+  .service-image {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+  }
+  
+  .service-title {
+    color: #A0522D;
+  }
+  
+  .promo-card {
+    overflow: hidden;
+    border-radius: 12px;
+  }
+  
+  .promo-img {
+    height: 300px;
+    object-fit: cover;
+    filter: brightness(0.75);
+    transition: transform 0.3s ease;
+  }
+  
+  .promo-img:hover {
+    transform: scale(1.03);
+  }
+  
+  .promo-text {
+    color: #fff;
+    text-shadow: 1px 1px 5px #000;
+  }
+  
